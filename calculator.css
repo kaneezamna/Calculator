@@ -1,0 +1,164 @@
+input{
+    height: 30px;
+    border-radius: 7px;
+    background-color: rgb(15, 177, 206);
+}
+#a{
+    background-color: blueviolet;
+    border-radius: 100%;
+    cursor: pointer;
+}
+#a:hover{
+    background-color: rgb(185, 124, 243);
+}
+#b{
+    background-color: blueviolet;
+    border-radius: 100%;
+    cursor: pointer;
+}
+#b:hover{
+    background-color: rgb(185, 124, 243);
+}
+#c{
+    background-color: blueviolet;
+    border-radius: 100%;
+    cursor: pointer;
+}
+#c:hover{
+    background-color: rgb(185, 124, 243);
+}
+#d{
+    background-color:rgb(83, 43, 226);
+    border-radius: 100%;
+    cursor: pointer;
+}
+#d:hover{
+    background-color: rgb(108, 107, 219);
+}
+#e{
+    background-color: blueviolet;
+    border-radius: 100%;
+    cursor: pointer;
+}
+#e:hover{
+    background-color: rgb(185, 124, 243);
+}
+#f{
+    background-color: blueviolet;
+    border-radius: 100%;
+}
+#f:hover{
+    background-color: rgb(185, 124, 243);
+}
+#g{
+    background-color: blueviolet;
+    border-radius: 100%;
+    cursor: pointer;
+}
+#g:hover{
+    background-color: rgb(185, 124, 243);
+}
+#h{
+    background-color:rgb(83, 43, 226);
+    border-radius: 100%;
+    cursor: pointer;
+}
+#h:hover{
+    background-color: rgb(108, 107, 219);
+}
+#i{
+    background-color: blueviolet;
+    border-radius: 100%;
+    cursor: pointer;
+}
+#i:hover{
+    background-color: rgb(185, 124, 243);
+}
+#j{
+    background-color: blueviolet;
+    border-radius: 100%;
+    cursor: pointer;
+}
+#j:hover{
+    background-color: rgb(185, 124, 243);
+}
+#k{
+    background-color: blueviolet;
+    border-radius: 100%;
+    cursor: pointer;
+}
+#k:hover{
+    background-color: rgb(185, 124, 243);
+}
+#l{
+    background-color: rgb(83, 43, 226);
+    border-radius: 100%;
+    cursor: pointer;
+}
+#l:hover{
+    background-color: rgb(108, 107, 219);
+}
+#m{
+    background-color: blueviolet;
+    border-radius: 100%;
+    cursor: pointer;
+}
+#m:hover{
+    background-color: rgb(185, 124, 243);
+}
+#n{
+    background-color: blueviolet;
+    border-radius: 100%;
+    cursor: pointer;
+}
+#n:hover{
+    background-color: rgb(185, 124, 243);
+}
+#o{
+    background-color: blueviolet;
+    border-radius: 100%;
+    cursor: pointer;
+}
+#o:hover{
+    background-color: rgb(185, 124, 243);
+}
+#p{
+    background-color: rgb(83, 43, 226);
+    border-radius: 100%;
+    cursor: pointer;
+}
+#p:hover{
+    background-color: rgb(108, 107, 219);
+}
+#q{
+    background-color: blueviolet;
+    border-radius: 100%;
+    cursor: pointer;
+}
+#q:hover{
+    background-color: rgb(185, 124, 243);
+}
+#r{
+    background-color: blueviolet;
+    border-radius: 100%;
+    cursor: pointer;
+}
+#r:hover{
+    background-color: rgb(185, 124, 243);
+}
+#s{
+    background-color: blueviolet;
+    border-radius: 100%;
+    cursor: pointer;
+}
+#s:hover{
+    background-color: rgb(185, 124, 243);
+}
+#t{
+    background-color: rgb(83, 43, 226);
+    border-radius: 100%;
+    cursor: pointer;
+}
+#t:hover{
+    background-color: rgb(108, 107, 219);
+}
